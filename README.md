@@ -5,6 +5,8 @@ Remote control to pause, resume, and rewind audiobooks playing from my phone.
 * Long press rewinds 30 seconds. Light blinks blue.
   * It actually sends 3x "previous track" commands, but I have my [audiobook player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) configured to interpret each of those as 10-second rewind.
 
+![demo](demo.gif)
+
 Why?
 
 I have some otherwise great earbuds that have frusturatingly-unreliable touch controls. This gives me a physical button that reliably performs my most common two tasks.
