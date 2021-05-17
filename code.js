@@ -1,3 +1,6 @@
+// Note: this code is intended to run in the Espruino runtime
+// based on https://www.espruino.com/BLE+Music+Control
+
 var controls = require("ble_hid_controls");
 NRF.setServices(undefined, { hid : controls.report });
 
